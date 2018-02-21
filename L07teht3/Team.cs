@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace a03
+namespace L07teht3
 {
     class Team
     {

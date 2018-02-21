@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO; // used for reading from and writing to a text file
 
-namespace a03
+namespace L07teht3
 {
     class Program
     {
@@ -15,6 +15,7 @@ namespace a03
             Team team2 = new Team();
             Random rand = new Random();
             string path1 = @"D:\L4929\Players1.txt";
+
             string path2 = @"D:\L4929\Players2.txt";
 
             team1.Name = "Basketball";
